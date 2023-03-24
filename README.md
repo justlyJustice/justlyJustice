@@ -1,4 +1,4 @@
-### Hi Hi, I’m Justice Johnson 👋
+### Hi, I’m Justice Johnson 👋
 Front-end Developer || Freelancer
 
 <!--
