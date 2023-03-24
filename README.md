@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Hi, I’m Justice Johnson 👋
+Front-end Developer || Freelancer
 
 <!--
 **justlyJustice/justlyJustice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
