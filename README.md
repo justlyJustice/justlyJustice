@@ -1,7 +1,7 @@
 ### Hi, I’m Justice Johnson 👋
 Front-end Developer || Graphic Designer || Freelancer || Drummer
 
-I code💻, chat 😁, interact 🙂, share ideas and most of all tend to make sure I have fun.
+I code💻, chat 😁, interact 🙂, share ideas and most of make sure I have fun doing what I love 🤗🥰.
 
 I have ample knowledge in the trendiest web technologies ranging from:
 - HTML 
