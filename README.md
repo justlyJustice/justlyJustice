@@ -17,10 +17,14 @@ My amazing skills stack:
 
 Looking to connect? Reach out to me via any of the methods below.
 
-[Emaail](mailto:justlyjohn198@gmail.com)
+[Email](mailto:justlyjohn198@gmail.com) 
+
 [WhatsApp](https://wa.me/2348109458902)
+
 [Facebook](https://web.facebook.com/justlyJustice)
+
 [Instagram](https://www.instagram.com/justly.john)
+
 [LinkedIn](https://www.linkedin.com/in/justice-johnson)
 
 
