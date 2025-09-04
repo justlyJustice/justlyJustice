@@ -1,35 +1,27 @@
 ### Hi, I’m Justice Johnson 👋
-Front-end Developer || Graphic Designer || Freelancer || Drummer
+## **Frontend Developer || Graphic Designer || UI/Ux Designer || Freelancer || Music Enthusiast**
 
-I code💻, chat 😁, interact 🙂, share ideas and most of make sure I have fun doing what I love 🤗🥰.
+I code, chat, interact, proffer outstanding solutions to problems. As developer, i always prioritize customer satisfaction while making sure to always present the best results.
 
-I have ample knowledge in the trendiest web technologies ranging from:
-- HTML 
-- CSS
+My amazing skills stack:
+- HTML/CSS
 - Bootstrap
-- Sass/Scss
+- Tailwind CSS
 - jQuery
 - JavaScript
-- React.js
-- Redux
+- React.js/Next.js
+- React Native
 - Next.js
-- Open Source
 - S.E.O
-- Git
+- Git/GitHub
 
-I am a focused and IT-thrilled individual. Well equipped with the latest and trendiest front-end technologies that help make development swift, fun 😁 and easy all the way through.
+Looking to connect? Reach out to me via any of the methods below.
 
-I love to connect and meet developers.
-
-Whatsapp -  +2348109458902
-
+Whatsapp -  https://wa.me/2348109458902
 Email - justlyjohn198@gmail.com
-
 Facebook - https://web.facebook.com/justlyJustice
-
-Instagram - https://www.instagram.com/johnjustly
-
-LinkedIn - https://www.linkedin.com/in/justice-johnson-30a663224/
+Instagram - https://www.instagram.com/justly.john
+LinkedIn - https://www.linkedin.com/in/justice-johnson
 
 
 
