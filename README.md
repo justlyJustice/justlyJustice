@@ -1,4 +1,4 @@
-# ** Hi, I’m Justice Johnson**
+# **Hi, I’m Justice Johnson**
 #### **Frontend Developer || Graphic Designer || UI/UX Designer || Freelancer || Music Enthusiast**
 
 I code, chat, interact, proffer outstanding solutions to problems. As developer, i always prioritize customer satisfaction while making sure to always present the best results.
